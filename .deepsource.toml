@@ -1,0 +1,8 @@
+version = 1
+
+test_patterns = ["tests/**"]
+
+exclude_patterns = ["samples/**"]
+
+[[analyzers]]
+name = "csharp"
